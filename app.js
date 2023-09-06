@@ -12,7 +12,7 @@ possibleChoices.forEach(possibleChoices => possibleChoices.addEventListener('cli
     getResult()
 }))
 function generateComputerChoice() {
-    const randomNumber = Math.floor(Math.random() * 3) + 1)
+    const randomNumber = Math.floor(Math.random() * 3 + 1)
     computerChoice = randomNumber === 1 ? "rock" : randomNumber === 2 ? "paper" : "scissors"
     computerChoiceDisplay.innerHTML = computerChoice
 }
