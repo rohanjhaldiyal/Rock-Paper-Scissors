@@ -1,0 +1,13 @@
+body {
+  margin: auto;
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.choice {
+  text-align: center;
+}
