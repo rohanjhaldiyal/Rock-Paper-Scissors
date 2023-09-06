@@ -4,10 +4,12 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 h2 {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
+
 .choice {
   text-align: center;
 }
